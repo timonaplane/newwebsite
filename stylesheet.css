@@ -1,0 +1,17 @@
+section.header {
+  padding-top: 15rem;
+  padding-bottom: 15rem;
+  color: #303030;
+  background-color: #f7f9ff;
+}
+
+h1{
+
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.bottom_bord {
+  padding-bottom: 5rem;
+  border-bottom: 5px solid #2E4052;
+}
